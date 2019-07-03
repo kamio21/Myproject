@@ -15,7 +15,7 @@ value-map
 
 # 실행 방법 명시
 -서버 구동
- D:\Documents\jedi\JEON\server\apache-tomcat-7.0.73\bin\startup.bat
+ JEON\server\apache-tomcat-7.0.73\bin\startup.bat
 
 -페이지 실행
   주소창에 http://localhost/index.jsp 
