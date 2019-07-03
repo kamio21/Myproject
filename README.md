@@ -8,7 +8,7 @@ URL 을 입력받아 짧게 줄여주고, Shortening 된 URL 을 입력하면 �
 <예시>
 key-map
 
-key	     | value
+	     | value
 ------------ | -------------
 157u972lM    | http://google.com
 
@@ -19,7 +19,7 @@ key	     | value
 
 
 
-First Header | Second Header
+key  | value
 ------------ | -------------
 Content cell 1 | Content cell 2
 
