@@ -21,7 +21,7 @@ http://google.com | 157u972lM |
 
 
 # 실행 방법
-- 서버 구동
+- 서버 구동 <br>
   JEON\server\apache-tomcat-7.0.73\bin\startup.bat <br>
 - 페이지 실행
   주소창에 http://localhost/index.jsp  <br>
