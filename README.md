@@ -5,6 +5,12 @@ URL 을 입력받아 짧게 줄여주고, Shortening 된 URL 을 입력하면 �
 - URL을 입력받으면 62진법(1~9 , A~Z , a~z)을 이용하여 랜덤하게 8자리로 만들어서 key-map에 랜덤발생한 key 값과 원래 주소를 저장하고
   value-map에는 반대로 원래주소와 key값을 저장한다.
 - URL을 입력받으면 처음에 value-hashmap에서 이미 입력한 값이 있는지 확인하고 없으면 키값을 발생시킨다.
+<예시>
+key-map
+
+key	     | value
+------------ | -------------
+157u972lM    | http://google.com
 
 
 First Header | Second Header
@@ -12,8 +18,7 @@ First Header | Second Header
 Content cell 1 | Content cell 2
 Content column 1 | Content column 2
 
-<예시>
-key-map	
+	
 [157u972lM,	http://google.com]	
 value-map	
 [http://google.com,157u972lM]
