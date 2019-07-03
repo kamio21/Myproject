@@ -28,25 +28,4 @@ http://google.com | 157u972lM |
   원본link에 URL을 넣고 shorten 버튼을 클릭한다. <br>
   변경link에 반환된 URL을 goWebsite 버튼을 클릭하여 화면이 잘 뜨나 확인한다.  <br>
 # Project folder structure
-ShortenURL													<br/>
-\t├─src\t\t\t\t\t\t\t\t\t\t\t\t   <br/>
-\t│  └─com\t\t\t\t\t\t\t\t\t\t\t\t<br/>
-\t│\t  └─urlShorten\t\t\t\t\t\t\t\t\t <br/>
-\t│\t\t\t  URLShortener.java\t\t\t\t\t\t<br/>
-\t│\t\t\t  UrlShortenMakeServlet.java\t\t\t   <br/>
-\t│\t\t\t  UrlShortenServlet.java\t\t\t\t   <br/>
-\t│\t\t\t  URLShortenTest.java\t\t\t\t\t  <br/>
-\t│\t\t\t\t\t\t\t\t\t\t\t\t\t   <br/>
-\t└─webapps\t\t\t\t\t\t\t\t\t\t\t   <br/>
-\t\t│  index.jsp\t\t\t\t\t\t\t\t\t\t<br/>
-\t\t│\t\t\t\t\t\t\t\t\t\t\t\t   <br/>
-\t\t└─WEB-INF\t\t\t\t\t\t\t\t\t\t   <br/>
-\t\t\t│  web.xml\t\t\t\t\t\t\t\t\t  <br/>
-\t\t\t│\t\t\t\t\t\t\t\t\t\t\t   <br/>
-\t\t\t└─classes\t\t\t\t\t\t\t\t\t   <br/>
-\t\t\t\t└─com\t\t\t\t\t\t\t\t\t   <br/>
-\t\t\t\t\t└─urlShorten\t\t\t\t\t\t\t<br/>
-\t\t\t\t\t\t\tURLShortener.class\t\t\t  <br/>
-\t\t\t\t\t\t\tUrlShortenMakeServlet.class\t <br/>
-\t\t\t\t\t\t\tUrlShortenServlet.class\t\t <br/>
-\t\t\t\t\t\t\tURLShortenTest.class\t\t\t<br/>
+
