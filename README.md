@@ -28,4 +28,27 @@ http://google.com | 157u972lM |
   원본link에 URL을 넣고 shorten 버튼을 클릭한다. <br>
   변경link에 반환된 URL을 goWebsite 버튼을 클릭하여 화면이 잘 뜨나 확인한다.  <br>
 # Project folder structure
-
+<pre><code>
+ShortenURL													
+    ├─src                                                   
+    │  └─com                                                
+    │      └─urlShorten                                     
+    │              URLShortener.java                        
+    │              UrlShortenMakeServlet.java               
+    │              UrlShortenServlet.java                   
+    │              URLShortenTest.java                      
+    │                                                       
+    └─webapps                                               
+        │  index.jsp                                        
+        │                                                   
+        └─WEB-INF                                           
+            │  web.xml                                      
+            │                                               
+            └─classes                                       
+                └─com                                       
+                    └─urlShorten                            
+                            URLShortener.class              
+                            UrlShortenMakeServlet.class     
+                            UrlShortenServlet.class         
+                            URLShortenTest.class            
+</pre></code>        
