@@ -13,9 +13,9 @@ key	     | value
 157u972lM    | http://google.com
 <hr>
 value-map
-key	              | value
---------------------- | -------------
-http://google.com     | 157u972lM
+key	     | value
+------------ | -------------
+157u972lM    | http://google.com
 
 # 실행 방법 명시
 -서버 구동
