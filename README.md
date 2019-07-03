@@ -11,17 +11,10 @@ key-map
 key	     | value
 ------------ | -------------
 157u972lM    | http://google.com
-
-
-First Header | Second Header
+value-map
+key	     | value
 ------------ | -------------
-Content cell 1 | Content cell 2
-Content column 1 | Content column 2
-
-	
-[157u972lM,	http://google.com]	
-value-map	
-[http://google.com,157u972lM]
+http://google.com     | 157u972lM
 
 # 실행 방법 명시
 -서버 구동
