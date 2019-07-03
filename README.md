@@ -8,9 +8,10 @@ URL 을 입력받아 짧게 줄여주고, Shortening 된 URL 을 입력하면 �
 
 key-map
 
-key	     | value
------------- | -------------
-157u972lM    | http://google.com
+key	     | value          |
+------------ | -------------  |
+157u972lM    | http://google.com |
+
 
 key          | value
 ------------ | -------------
