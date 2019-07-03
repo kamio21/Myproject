@@ -12,7 +12,8 @@ key	     | value
 ------------ | -------------
 157u972lM    | http://google.com
 
-value-map
+
+
 key          | value
 ------------ | -------------
 http://google.com | 157u972lM
