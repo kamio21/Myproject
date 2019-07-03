@@ -13,8 +13,8 @@ key	     | value
 157u972lM    | http://google.com
 <hr>
 value-map
-key	     | value
------------- | -------------
+key	              | value
+--------------------- | -------------
 http://google.com     | 157u972lM
 
 # 실행 방법 명시
