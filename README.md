@@ -28,38 +28,25 @@ http://google.com | 157u972lM |
   원본link에 URL을 넣고 shorten 버튼을 클릭한다. <br>
   변경link에 반환된 URL을 goWebsite 버튼을 클릭하여 화면이 잘 뜨나 확인한다.  <br>
 # Project folder structure
-ShortenURL
-    +---src
-    |   \---com
-    |       \---urlShorten
-    |               URLShortener.java
-    |               UrlShortenMakeServlet.java
-    |               UrlShortenServlet.java
-    |               URLShortenTest.java
-    |
-    \---webapps
-        |   index.jsp
-        |
-        \---WEB-INF
-            |   web.xml
-            |
-            +---classes
-            |   \---com
-            |       \---urlShorten
-            |               URLShortener.class
-            |               UrlShortenMakeServlet.class
-            |               UrlShortenServlet.class
-            |               URLShortenTest.class
-            |
-            \---images
-                    kakao.jpg
-
-# ScreenShot
-- 첫 페이지
-<br/><img src="screenshot1.png"/>
-- 줄임 URL 구하기
-<br/><img src="screenshot2.png"/>
-- 정상적인 URL을 입력하지 않은 경우
-<br/><img src="screenshot3.png"/>
-- 정상적인 줄임 URL이 아닌 경우
-<br/><img src="screenshot4.png"/>
+ShortenURL													<br/>
+    ├─src                                                   <br/>
+    │  └─com                                                <br/>
+    │      └─urlShorten                                     <br/>
+    │              URLShortener.java                        <br/>
+    │              UrlShortenMakeServlet.java               <br/>
+    │              UrlShortenServlet.java                   <br/>
+    │              URLShortenTest.java                      <br/>
+    │                                                       <br/>
+    └─webapps                                               <br/>
+        │  index.jsp                                        <br/>
+        │                                                   <br/>
+        └─WEB-INF                                           <br/>
+            │  web.xml                                      <br/>
+            │                                               <br/>
+            └─classes                                       <br/>
+                └─com                                       <br/>
+                    └─urlShorten                            <br/>
+                            URLShortener.class              <br/>
+                            UrlShortenMakeServlet.class     <br/>
+                            UrlShortenServlet.class         <br/>
+                            URLShortenTest.class            <br/>
