@@ -7,6 +7,11 @@ URL 을 입력받아 짧게 줄여주고, Shortening 된 URL 을 입력하면 �
 - URL을 입력받으면 처음에 value-hashmap에서 이미 입력한 값이 있는지 확인하고 없으면 키값을 발생시킨다.
 
 
+First Header | Second Header
+------------ | -------------
+Content cell 1 | Content cell 2
+Content column 1 | Content column 2
+
 <예시>
 key-map	
 [157u972lM,	http://google.com]	
@@ -18,7 +23,7 @@ value-map
  JEON\server\apache-tomcat-7.0.73\bin\startup.bat
 
 -페이지 실행
-  주소창에 http://localhost/index.jsp 
+ 주소창에 http://localhost/index.jsp 
  원본link에 URL을 넣고 shorten 버튼을 클릭한다.
  변경link에 반환된 URL을 goWebsite 버튼을 클릭하여 화면이 잘 뜨나 확인한다. 
 	
