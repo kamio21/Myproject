@@ -14,9 +14,6 @@ key	     | value
 
 
 
-
-
-
 key          | value
 ------------ | -------------
 http://google.com | 157u972lM
