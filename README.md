@@ -21,12 +21,12 @@ http://google.com | 157u972lM |
 
 
 # 실행 방법 명시
--서버 구동
- JEON\server\apache-tomcat-7.0.73\bin\startup.bat
--페이지 실행
- 주소창에 http://localhost/index.jsp 
- 원본link에 URL을 넣고 shorten 버튼을 클릭한다.
- 변경link에 반환된 URL을 goWebsite 버튼을 클릭하여 화면이 잘 뜨나 확인한다. 
+- 서버 구동
+  JEON\server\apache-tomcat-7.0.73\bin\startup.bat
+- 페이지 실행
+  주소창에 http://localhost/index.jsp 
+  원본link에 URL을 넣고 shorten 버튼을 클릭한다.
+  변경link에 반환된 URL을 goWebsite 버튼을 클릭하여 화면이 잘 뜨나 확인한다. 
 	
 # ScreenShot
 - 첫 페이지
