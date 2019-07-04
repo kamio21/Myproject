@@ -1,5 +1,5 @@
 # 소개
-URL 을 입력받아 짧게 줄여주고, Shortening 된 URL 을 입력하면 원래 URL 로 리다이렉트하는 URL
+URL 을 입력받아 짧게 줄여주고, Shortening 된 URL 을 입력하면 원래 URL 로 리다이렉트하는 URL 개발하기!
 
 # 문제해결 
 - URL을 입력받으면 62진법(1~9 , A~Z , a~z)을 이용하여 랜덤하게 8자리로 만들어서 key-map에 랜덤발생한 key 값과 원래 주소를 저장하고
